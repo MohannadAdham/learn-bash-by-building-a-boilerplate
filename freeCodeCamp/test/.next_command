@@ -212,3 +212,5 @@ echo for the freeCodeCamp bash lessons >> README.md
 more README.md
 cd ..
 ls --color=auto
+__vsc_prompt_cmd_original
+mv website/ website-boilerplate
