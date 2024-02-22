@@ -206,3 +206,5 @@ echo I made this boilerplate >> README.md
 more README.md
 echo from the command line
 echo from the command line >> README.md
+more RE
+more README.md
